@@ -6,4 +6,3 @@
 
 ### The directory "gps_output_backup" contains sample outputs of the script "DL-system_viticulture"
 
-### The directory "pre
