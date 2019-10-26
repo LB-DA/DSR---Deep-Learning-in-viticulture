@@ -1,1 +1,1 @@
-# A Design Science Study on Deep Learning Systems in Viticulture
+# A DSR-Study on Deep Learning Systems in Viticulture
