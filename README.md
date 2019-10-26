@@ -5,7 +5,7 @@
 
 ### It is recommended to download the file and open it with Jupyter Notebook to get the correct documentation format. The preview version of github can be shifted due to the limited width.
 
-### This script requires a video file with appropriate GPS-information as input. As an example for such gps information please refer to the directory "gps_information_sample".
+### This script requires a video file with appropriate GPS information as input. As an example for such GPS information please refer to the directory "gps_information_sample".
 
 ### The directory "gps_output_backup" contains sample outputs of the script "DL-system_viticulture"
 
