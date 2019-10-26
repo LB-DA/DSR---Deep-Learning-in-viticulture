@@ -1,0 +1,1 @@
+output comes from 00:10-00:57 of this video
